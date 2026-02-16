@@ -172,4 +172,3 @@ Add the three `VITE_*` variables as repository secrets, then reference them in y
 | Hardcoded secrets | Supabase URL/key and API URL in source code | Moved to `VITE_*` env vars |
 | Login page duplication | Two identical forms for jobseeker/HR tabs | Merged into single form |
 | DB schema mismatch | Types missing `cover_letter`, `ats_score`, etc. | Updated types + provided complete `schema.sql` |
-# clever-hire-connect
